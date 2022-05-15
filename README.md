@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Olá sou o julio</h1> 
 
 <div>
