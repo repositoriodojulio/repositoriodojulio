@@ -32,4 +32,4 @@
 </div>
 
 ##
-<img src="https://github.com/julioalvesoficial/Gif-imagens/blob/main/giphy.gif" />
+
