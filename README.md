@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/repositoriodojulio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioalves&show_icons=true&theme=tokyonight&include_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioalves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=repositoriodojulio&show_icons=true&theme=tokyonight&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repositoriodojulio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display:inline_block"><br>
